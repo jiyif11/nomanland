@@ -1,9 +1,9 @@
 ---
 project:
-  name: 软银科技
-  owner: runningit
+  name: 无人区科技
+  owner: nomanland
   tel: 19951785199
-  repo: https://www.runningit.cn
+  repo: https://www.nomanland.tech
 collections:
   Products:
     output: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 软银科技
+title: 无人区科技
 ---
 
 # {{ page.title }}
