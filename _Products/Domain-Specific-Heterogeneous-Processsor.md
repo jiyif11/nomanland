@@ -3,7 +3,7 @@ layout: page
 title: 无人区 AI 多核处理器
 description: Domain Specific Heterogeneous Processsor
 
-order: 1
+order: 3
 ---
 
 # {{ page.title }}
